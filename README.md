@@ -1,7 +1,9 @@
 # StockBuy-Hold-Sell-Indicator
-This is a small project that scrapes data from two different sites and provides simple recommendation of whether to buy, sell, or hold a stock
+#Project description
+This is a small webscraper project which collects data from two different sites using python beautifulsoup.
+It provides simple recommendation of whether to buy, sell, or hold a stock
 for people who are unfamiliar on evaluating a stock.
-
+#How it works.
 The user is prompted to input a stock ticker.
 The program scrapes and provides real time stock data from yahoo finance.
 The program also scrapes analyst recommendation on the stock from barchart, a company that provides stock information
